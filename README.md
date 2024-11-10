@@ -1,7 +1,7 @@
 # llama-hack
 
 This project integrates the LLaMA LLM, TogetherAI, MindsDB, and Good Grant APIs.
-- User Story
+- [User Story](https://docs.google.com/document/d/1DNubRJbQVePpBDWAgUaSkvNMG6MHsrJU_3-_Ixdrzfk/edit?usp=sharing)
 - Moqup
 
 
